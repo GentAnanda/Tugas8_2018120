@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas 8</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Ice Chocolate .</string>
+    <string name="ingredients"> </string>
+    <string name="price">Harga :</string>
+    <string name="Harga">Rp.50.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string name="isi">Layanan Berbayar</string>
+    <string-array name="Minuman">
+        <item>Ice Chocolate</item>
+        <item>Matcha Latte</item>
+        <item>Ice Coffe Milk</item>
+    </string-array>
+    <string-array name="Star">
+        <item>5.0</item>
+        <item>4.7</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>250.000</item>
+        <item>30.000</item>
+        <item>40.000</item>
+    </string-array>
+</resources>
